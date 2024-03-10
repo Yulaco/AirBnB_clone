@@ -38,7 +38,7 @@ $
 
 *Non-interactive mode*
 
-Non-interactive mode of the shell does not inteact with the user. This mode is run utilizing a script.
+Non-interactive mode of the shell does not interact with the user. This mode is run utilizing a script.
 
 $ echo "help" | ./console.py
 (hbnb)
