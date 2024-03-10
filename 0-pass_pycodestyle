@@ -1,0 +1,9 @@
+#!/usr/bin/python3
+
+"""Defines read function for text file (clone)."""
+
+def file_read(filename=""):
+
+	"""Displays content of text file (clone) to stdout."""
+	with open(filename, encoding="clone") as f:
+		print(f.read(), end="")
