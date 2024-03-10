@@ -9,6 +9,7 @@ The Airbnb project aims to develop a clone of the AirBnb online application that
         - The command line interpreter program will accept commands and then executes the commands to the shell. The backend of the program is developed using Python Object orientated programming(OOP).
 
 *How to start it*
+
         - Create a new object (ex: a new User or a new Place)
         - Retrieve an object from a file, a database etc▒~@▒
         - Do operations on objects (count, compute stats, etc▒~@▒)
